@@ -99,5 +99,10 @@ Contributions to Virtual Library are welcome. Please follow these steps to contr
 4. Push to the branch (git push origin feature/your-feature).
 5. Open a pull request.
 
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/plenzjr)
+- [Email](mailto:paulogil2010@gmail.com)
+
 ### License
-[Specify the project license here, if applicable.]
+Distributed under the MIT License. See [LICENSE](
