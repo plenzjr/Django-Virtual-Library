@@ -1,0 +1,47 @@
+[
+  {
+    "model": "app_library.publisher",
+    "pk": "8ab426be-e88d-47f7-86a7-3332003fab48",
+    "fields": {
+      "created_at": "2023-01-01T12:00:00Z",
+      "updated_at": "2023-01-01T12:00:00Z",
+      "name": "Secker & Warburg"
+    }
+  },
+  {
+    "model": "app_library.publisher",
+    "pk": "ae9addad-c7d9-4faf-90bd-e5cc5553c350",
+    "fields": {
+      "created_at": "2023-01-01T12:00:00Z",
+      "updated_at": "2023-01-01T12:00:00Z",
+      "name": "Pearson"
+    }
+  },
+  {
+    "model": "app_library.publisher",
+    "pk": "bc336a35-e75d-4616-b9c3-d72daa55add9",
+    "fields": {
+      "created_at": "2023-01-01T12:00:00Z",
+      "updated_at": "2023-01-01T12:00:00Z",
+      "name": "ThomsonReuters"
+    }
+  },
+  {
+    "model": "app_library.publisher",
+    "pk": "13f4201a-0f6f-41ac-b750-0efb974b5720",
+    "fields": {
+      "created_at": "2023-01-01T12:00:00Z",
+      "updated_at": "2023-01-01T12:00:00Z",
+      "name": "Bertelsmann"
+    }
+  },
+  {
+    "model": "app_library.publisher",
+    "pk": "93b28e59-18bb-4f2b-9601-1bf4d0a178a9",
+    "fields": {
+      "created_at": "2023-01-01T12:00:00Z",
+      "updated_at": "2023-01-01T12:00:00Z",
+      "name": "Wolters Kluwer"
+    }
+  }
+]

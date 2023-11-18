@@ -1,0 +1,28 @@
+# top-most EditorConfig file
+root = true
+
+[*]
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+# 4 space indentation
+[*.py]
+indent_style = space
+indent_size = 4
+
+# 2 space indentation -frontend
+[*.{ts,tsx,html,js,json}]
+indent_style = space
+indent_size = 2
+
+# 2 space indentation - styling
+[*.{css,less}]
+indent_style = space
+indent_size = 2
+
+# 2 space indentation - docker
+[*.{yml}]
+indent_style = space
+indent_size = 2

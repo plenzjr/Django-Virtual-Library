@@ -1,0 +1,6 @@
+-r requirements.txt
+flake8-django==1.1.1
+pytest==7.4.3
+pytest-cov==4.1.0
+pytest-django==4.6.0
+pytest-env

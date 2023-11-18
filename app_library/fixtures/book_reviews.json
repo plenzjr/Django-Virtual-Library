@@ -1,0 +1,62 @@
+[
+  {
+    "model": "app_library.bookreview",
+    "pk": "2912ae71-3076-4c05-8447-97aa61dd7ecc",
+    "fields": {
+      "created_at": "2023-01-01T12:00:00Z",
+      "updated_at": "2023-01-01T12:00:00Z",
+      "user": "b51af4a1-6dbb-4270-aa9e-3dda574206dc",
+      "book": "5ec82a3f-bb1e-4c91-99db-d6ab9aeea33e",
+      "rating": 5,
+      "review": "An outstanding masterpiece! A must-read."
+    }
+  },
+  {
+    "model": "app_library.bookreview",
+    "pk": "031b1ac7-a764-48b5-9584-7c6871938e6d",
+    "fields": {
+      "created_at": "2023-01-01T12:00:00Z",
+      "updated_at": "2023-01-01T12:00:00Z",
+      "user": "eb82fbdd-53fa-4a39-9366-f8f3dfb32a60",
+      "book": "1e0f992e-ee7c-4a9d-b8fb-7e8b358fee4d",
+      "rating": 4,
+      "review": "Really enjoyed this book, highly recommended!"
+    }
+  },
+  {
+    "model": "app_library.bookreview",
+    "pk": "7c0bec5a-9bba-43a4-8247-07949912d3e9",
+    "fields": {
+      "created_at": "2023-01-01T12:00:00Z",
+      "updated_at": "2023-01-01T12:00:00Z",
+      "user": "fd8537b8-ea1f-4deb-a20e-3fa670d98c6a",
+      "book": "7fa423ec-d70a-4c74-9911-cfc1ff9420b8",
+      "rating": 3,
+      "review": "A decent read, but had some dull moments."
+    }
+  },
+  {
+    "model": "app_library.bookreview",
+    "pk": "32ca586f-7248-49b0-af9f-841eb5819f9e",
+    "fields": {
+      "created_at": "2023-01-01T12:00:00Z",
+      "updated_at": "2023-01-01T12:00:00Z",
+      "user": "67b1e1de-4f3b-4247-8c59-59fe61289444",
+      "book": "1c4ecbed-f66b-4fd4-8bcb-e83e7a49db44",
+      "rating": 2,
+      "review": "I struggled to finish this book. Not my cup of tea."
+    }
+  },
+  {
+    "model": "app_library.bookreview",
+    "pk": "4412e45d-6234-414f-8539-368b1e593eaa",
+    "fields": {
+      "created_at": "2023-01-01T12:00:00Z",
+      "updated_at": "2023-01-01T12:00:00Z",
+      "user": "9fc950c2-e865-4725-9f80-3bfd131bc21f",
+      "book": "b557f996-bc45-4cf2-bc42-16e6c7cdae10",
+      "rating": 1,
+      "review": "I did not like this book at all."
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "model": "app_library.book",
+    "pk": "5ec82a3f-bb1e-4c91-99db-d6ab9aeea33e",
+    "fields": {
+      "created_at": "2023-01-01T12:00:00Z",
+      "updated_at": "2023-01-01T12:00:00Z",
+      "title": "1984",
+      "author": [
+        "fd7ec0b3-c8e1-42f8-a6f3-58e3c9ddda2b"
+      ],
+      "category": [
+        "2c3d5e9a-fd1e-4a1c-aa2e-6c9581db56ef"
+      ],
+      "publisher": "8ab426be-e88d-47f7-86a7-3332003fab48",
+      "publish_date": "1949-06-08",
+      "isbn": "9780451524935",
+      "pages": 328,
+      "description": "A dystopian novel set in Airstrip One, formerly Great Britain, a province of the superstate Oceania in a world of perpetual war, omnipresent government surveillance, and public manipulation. The superstate is under the control of the Party, whose leader is Big Brother, and the story follows the life of Winston Smith, a low-ranking member of the Party."
+    }
+  },
+  {
+    "model": "app_library.book",
+    "pk": "1e0f992e-ee7c-4a9d-b8fb-7e8b358fee4d",
+    "fields": {
+      "created_at": "2023-01-01T12:00:00Z",
+      "updated_at": "2023-01-01T12:00:00Z",
+      "title": "Animal Farm",
+      "author": [
+        "fd7ec0b3-c8e1-42f8-a6f3-58e3c9ddda2b"
+      ],
+      "category": [
+        "5b4f635b-b5e6-4f9a-8715-6a2c53b0d97b"
+      ],
+      "publisher": "8ab426be-e88d-47f7-86a7-3332003fab48",
+      "publish_date": "1945-08-17",
+      "isbn": "9780451526342",
+      "pages": 112,
+      "description": "A political allegory that satirizes the events leading up to the Russian Revolution and then on into the Stalinist era of the Soviet Union. Orwell, a democratic socialist, was a critic of Joseph Stalin and hostile to Moscow-directed Stalinism, an attitude that was critically shaped by his experiences during the Spanish Civil War."
+    }
+  },
+  {
+    "model": "app_library.book",
+    "pk": "7fa423ec-d70a-4c74-9911-cfc1ff9420b8",
+    "fields": {
+      "created_at": "2023-01-01T12:00:00Z",
+      "updated_at": "2023-01-01T12:00:00Z",
+      "title": "Homage to Catalonia",
+      "author": [
+        "fd7ec0b3-c8e1-42f8-a6f3-58e3c9ddda2b"
+      ],
+      "category": [
+        "08c91147-4173-4808-8052-6cd21c76bfe4"
+      ],
+      "publisher": "8ab426be-e88d-47f7-86a7-3332003fab48",
+      "publish_date": "1938-04-25",
+      "isbn": "9780156421171",
+      "pages": 264,
+      "description": "An account of George Orwell’s experiences during the Spanish Civil War. The book describes the author's experiences as a soldier and participant in the Spanish Civil War. The author was motivated to fight for the Republican side because of his sense of the social injustices committed by the Fascists."
+    }
+  },
+  {
+    "model": "app_library.book",
+    "pk": "1c4ecbed-f66b-4fd4-8bcb-e83e7a49db44",
+    "fields": {
+      "created_at": "2023-01-01T12:00:00Z",
+      "updated_at": "2023-01-01T12:00:00Z",
+      "title": "The Road to Wigan Pier",
+      "author": [
+        "fd7ec0b3-c8e1-42f8-a6f3-58e3c9ddda2b"
+      ],
+      "category": [
+        "08c91147-4173-4808-8052-6cd21c76bfe4"
+      ],
+      "publisher": "8ab426be-e88d-47f7-86a7-3332003fab48",
+      "publish_date": "1937-03-08",
+      "isbn": "9780156767507",
+      "pages": 264,
+      "description": "A book by George Orwell, first published in 1937. The first half of this work documents his sociological investigations of the bleak living conditions amongst the working class in Lancashire and Yorkshire in the industrial north of England before World War II."
+    }
+  },
+  {
+    "model": "app_library.book",
+    "pk": "b557f996-bc45-4cf2-bc42-16e6c7cdae10",
+    "fields": {
+      "created_at": "2023-01-01T12:00:00Z",
+      "updated_at": "2023-01-01T12:00:00Z",
+      "title": "Down and Out in Paris and London",
+      "author": [
+        "fd7ec0b3-c8e1-42f8-a6f3-58e3c9ddda2b"
+      ],
+      "category": [
+        "15d91a6c-1c94-409e-9881-6779df1d2762"
+      ],
+      "publisher": "8ab426be-e88d-47f7-86a7-3332003fab48",
+      "publish_date": "1933-01-09",
+      "isbn": "9780156262248",
+      "pages": 213,
+      "description": "The first full-length work by the English author George Orwell, published in 1933. It is a memoir in two parts on the theme of poverty in the two cities. The first part is an account of living in near-destitution in Paris and the experience of casual labour in restaurant kitchens."
+    }
+  }
+]

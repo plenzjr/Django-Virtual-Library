@@ -1,0 +1,57 @@
+[
+  {
+    "model": "app_library.author",
+    "pk": "fd7ec0b3-c8e1-42f8-a6f3-58e3c9ddda2b",
+    "fields": {
+      "created_at": "2023-01-01T12:00:00Z",
+      "updated_at": "2023-01-01T12:00:00Z",
+      "name": "George Orwell",
+      "birthday": "1903-06-25",
+      "country": "India"
+    }
+  },
+  {
+    "model": "app_library.author",
+    "pk": "8e8b9561-64a7-4078-af17-70de09c4ac9a",
+    "fields": {
+      "created_at": "2023-01-02T12:00:00Z",
+      "updated_at": "2023-01-02T12:00:00Z",
+      "name": "Jane Austen",
+      "birthday": "1775-12-16",
+      "country": "United Kingdom"
+    }
+  },
+  {
+    "model": "app_library.author",
+    "pk": "12f344a3-46d1-435a-9b09-dde98cf523e2",
+    "fields": {
+      "created_at": "2023-01-03T12:00:00Z",
+      "updated_at": "2023-01-03T12:00:00Z",
+      "name": "Mark Twain",
+      "birthday": "1835-11-30",
+      "country": "United States"
+    }
+  },
+  {
+    "model": "app_library.author",
+    "pk": "2f56c56d-8a3e-44b2-9ac5-4b44c573d85e",
+    "fields": {
+      "created_at": "2023-01-04T12:00:00Z",
+      "updated_at": "2023-01-04T12:00:00Z",
+      "name": "Harper Lee",
+      "birthday": "1926-04-28",
+      "country": "United States"
+    }
+  },
+  {
+    "model": "app_library.author",
+    "pk": "e7f6066e-6b37-4b29-9852-c1e14d0965e7",
+    "fields": {
+      "created_at": "2023-01-05T12:00:00Z",
+      "updated_at": "2023-01-05T12:00:00Z",
+      "name": "F. Scott Fitzgerald",
+      "birthday": "1896-09-24",
+      "country": "United States"
+    }
+  }
+]
