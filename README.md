@@ -1,5 +1,11 @@
 # Virtual Library Project
 
+![Tests](https://img.shields.io/github/actions/workflow/status/paulogil2010/Django-Virtual-Library/django-tests.yml?label=Tests)
+![Contributors](https://img.shields.io/github/contributors/paulogil2010/Django-Virtual-Library?color=green)
+
+
+
+
 ## Description
 Virtual Library is a Django-based web application designed to manage a digital library. It allows users to browse, review, and manage a collection of books, authors, and publishers.
 
