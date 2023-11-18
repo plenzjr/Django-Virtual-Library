@@ -36,10 +36,10 @@ jobs:
     - name: Apply migrations
       env:
         DATABASE_URL: postgres://admin:admin@localhost:5432/virtual_library
-        SECRET_KEY: ${{ secrets.SECRET_KEY }}
+        SECRET_KEY: ${secrets.SECRET_KEY:-mysecretkey}
       run: python manage.py migrate
 
     - name: Run tests
       env:
-        SECRET_KEY: ${{ secrets.SECRET_KEY }}
+        SECRET_KEY: ${secrets.SECRET_KEY:-mysecretkey}
       run: python manage.py test
