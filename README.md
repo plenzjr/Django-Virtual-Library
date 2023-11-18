@@ -111,4 +111,4 @@ Contributions to Virtual Library are welcome. Please follow these steps to contr
 - [Email](mailto:paulogil2010@gmail.com)
 
 ### License
-Distributed under the MIT License. See [LICENSE](
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
